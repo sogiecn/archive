@@ -8,7 +8,7 @@
 |    标题     |   公众号     |   作者   |   发布日期  | 原文链接  |  存档日期   | 404 check |
 |   :----:    |    :----:   | :----:  |  :----:   |  :----:  |   :----:   |   :----:  |
 | Header      | Title       | 跨性别兄弟盟   | Title       | Here's this   | Title       | Here's this   | 
-| Paragraph   | Text        | 跨性别兄弟盟     | Title       | Here's this   | Title       | Here's this   |
+| 【兄弟刊】麦子：手术改证只是开始，不是结束 | 跨性别兄弟盟 | 猫哥和朋友们 | 2023-10-17 | [ori](https://mp.weixin.qq.com/s/pcn23CI3EydMGNI2bf7EMg) | 2023-10-23 | not yet |
 | 【兄弟梦想营】回顾2023年第三届兄弟能力培训营 | 跨性别兄弟盟 | 猫哥和朋友们 | 2023-10-14 | [ori](https://mp.weixin.qq.com/s/rl34o43lg_S0mp6mYQX96A) | 2023-10-23 | not yet |
 | 【兄弟梦想营】回顾2021年第二届兄弟能力培训营 | 跨性别兄弟盟 | 猫哥和朋友们 | 2023-10-12 | [ori](https://mp.weixin.qq.com/s/eThcJdnt_LlRz38j9Oll1Q) | 2023-10-23 | not yet |
 | 【兄弟梦想营】回顾2020年第一届兄弟能力培训营 | 跨性别兄弟盟 | NULL | 2023-10-10 | [ori](https://mp.weixin.qq.com/s/kc5luMFRxxMPf26nNi2GDg) | 2023-10-23 | not yet | 

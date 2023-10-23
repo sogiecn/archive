@@ -10,9 +10,8 @@
 | Header      | Title       | 跨性别兄弟盟   | Title       | Here's this   | Title       | Here's this   | 
 | Paragraph   | Text        | 跨性别兄弟盟     | Title       | Here's this   | Title       | Here's this   |
 | Paragraph   | Text        | 跨性别兄弟盟      | Title       | Here's this   | Title       | Here's this   |
-| Paragraph   | Text        | 跨性别兄弟盟    | Title       | Here's this   | Title       | Here's this   |
-| 回顾2020年第一届兄弟能力培训营-兄弟梦想营 | 跨性别兄弟盟 | NULL | 2023-10-10 
-| [ori](https://mp.weixin.qq.com/s/kc5luMFRxxMPf26nNi2GDg) | 2023-10-23 | not yet | 
+| 回顾2021年第二届兄弟能力培训营 | 跨性别兄弟盟 | 猫哥和朋友们 | 2023-10-12 | [ori](https://mp.weixin.qq.com/s/eThcJdnt_LlRz38j9Oll1Q) | 2023-10-23 | not yet |
+| 回顾2020年第一届兄弟能力培训营-兄弟梦想营 | 跨性别兄弟盟 | NULL | 2023-10-10 | [ori](https://mp.weixin.qq.com/s/kc5luMFRxxMPf26nNi2GDg) | 2023-10-23 | not yet | 
 | Paragraph   | Text        | And more      | Title       | Here's this   | Title       | Here's this   |
 | Paragraph   | Text        | And more      | Title       | Here's this   | Title       | Here's this   |
 | Paragraph   | Text        | And more      | Title       | Here's this   | Title       | Here's this   |

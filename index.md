@@ -7,7 +7,7 @@
 
 |    标题     |   公众号     |   作者   |   发布日期  | 原文链接  |  存档日期   | 404 check |
 |   :----:    |    :----:   | :----:  |  :----:   |  :----:  |   :----:   |   :----:  |
-| Header      | Title       | 跨性别兄弟盟   | Title       | Here's this   | Title       | Here's this   | 
+| 【科普】2022年新版跨性别手术政策规定 | 跨性别兄弟盟 | 猫哥和朋友们 | 2023-10-21 | [ori](https://mp.weixin.qq.com/s/tQiIM4jPgpsSVAvNT33MjA) | 2023-10-23 | not yet | 
 | 【兄弟刊】麦子：手术改证只是开始，不是结束 | 跨性别兄弟盟 | 猫哥和朋友们 | 2023-10-17 | [ori](https://mp.weixin.qq.com/s/pcn23CI3EydMGNI2bf7EMg) | 2023-10-23 | not yet |
 | 【兄弟梦想营】回顾2023年第三届兄弟能力培训营 | 跨性别兄弟盟 | 猫哥和朋友们 | 2023-10-14 | [ori](https://mp.weixin.qq.com/s/rl34o43lg_S0mp6mYQX96A) | 2023-10-23 | not yet |
 | 【兄弟梦想营】回顾2021年第二届兄弟能力培训营 | 跨性别兄弟盟 | 猫哥和朋友们 | 2023-10-12 | [ori](https://mp.weixin.qq.com/s/eThcJdnt_LlRz38j9Oll1Q) | 2023-10-23 | not yet |
